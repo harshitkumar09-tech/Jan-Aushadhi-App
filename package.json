@@ -1,0 +1,11 @@
+{
+  "name": "jan-aushadhi-sugam-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student prototype of a faster Jan Aushadhi Sugam website: offline medicine search with alternatives, Kendra locator, stock and reserve-for-pickup.",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "license": "MIT"
+}
